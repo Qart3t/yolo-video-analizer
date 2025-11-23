@@ -1,0 +1,26 @@
+# Modele / duże pliki
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# Cache Pythona
+__pycache__/
+**/__pycache__/
+
+# Pliki wideo
+*.mp4
+*.avi
+*.mkv
+*.mov
+
+# Logi
+*.log
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Wirtualne środowiska
+venv/
+.env/
